@@ -1,0 +1,5 @@
+done - 1. Test and build add to shopping list
+done - 2. Test and build Total of List items
+done - 3. Test and build remove from list count
+done - 4. Test and integrate XR API
+5. Test and build update XRs for list
